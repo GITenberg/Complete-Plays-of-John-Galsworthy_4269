@@ -1,0 +1,35 @@
+_repo: Complete-Plays-of-John-Galsworthy_4269
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: First series. The silver box ; Joy ; Strife -- Second series. The eldest
+  son ; The little dream ; Justice -- Third series. The fugitive ; The pigeon ; The
+  mob.
+gutenberg_issued: '2004-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: "First Series: The Silver Box -- Joy -- Strife\r\nSecond Series:\
+  \ The Eldest Son -- The Little Dream -- Justice\r\nThird Series: The Fugitive --\
+  \ The Pigeon -- The Mob\r\nFourth Series: A Bit O' Love -- The Foundations -- The\
+  \ Skin Game\r\nSix Short Plays: The First and The Last -- The Little Man -- Hall-marked\
+  \ -- Defeat -- The Sun -- Punch and Go\r\nFifth Series: A Family Man -- Loyalties\
+  \ -- Windows."
+title: Complete Plays of John Galsworthy
+url: http://www.gutenberg.org/ebooks/4269
