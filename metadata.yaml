@@ -1,5 +1,8 @@
 _repo: Complete-Plays-of-John-Galsworthy_4269
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -12,6 +15,8 @@ creator:
 description: First series. The silver box ; Joy ; Strife -- Second series. The eldest
   son ; The little dream ; Justice -- Third series. The fugitive ; The pigeon ; The
   mob.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4269#Complete-Plays-of-John-Galsworthy
 gutenberg_issued: '2004-09-26'
 gutenberg_type: Text
 identifiers:
